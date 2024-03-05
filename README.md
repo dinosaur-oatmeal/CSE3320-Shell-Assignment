@@ -1,8 +1,9 @@
 # Unix Shell
 
-In this project, I built a simple Unix shell. The shell is the heart of
-the command-line interface, and thus is central to the Unix/C programming
-environment. Mastering use of the shell is necessary to become proficient in
+Under the guidance of Professor Trevor Bakker at The University of Texas-Arlington,
+I built a simple Unix shell. The shell is the heart of the command-line interface,
+and thus is central to the Unix/C programming environment.
+Mastering the use of the shell is necessary to become proficient in
 this world; knowing how the shell itself is built was the focus of this
 project.
 
